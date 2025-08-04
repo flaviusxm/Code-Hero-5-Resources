@@ -1,8 +1,0 @@
-banana
-banana este un fruct
-mar
-marul este un fruct ft. sanatos
-algoritm
-algoritmul reprezinta un set de instructiuni cu scopul de a rezolva o problema
-Iustin
-Iustin este fratele mai mic din fam Pirjoleanu
